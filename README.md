@@ -2,8 +2,8 @@
 
 This repository contains a simple vehicle detection system implemented in Python using OpenCV and Haar Cascade Classifiers. The system captures video frames from the default camera and applies a pre-trained Haar Cascade classifier to detect vehicles in the scene. Detected vehicles are highlighted with rectangles, and additional information is displayed.
 
-Features:
-# Real-time vehicle detection in a video stream
+# Features:
+-Real-time vehicle detection in a video stream
 -Utilizes OpenCV and Haar Cascade Classifier
 -Easy integration with default camera or other video sources
 -Simple and efficient implementation
