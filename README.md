@@ -12,4 +12,4 @@ This repository contains a simple vehicle detection system implemented in Python
 - Clone the repository to your local machine.
 - Install the required dependencies (cv2).
 - Run the vehicle_detection.py script.
-Feel free to explore, modify, and enhance the code for your specific use case.
+<br>Feel free to explore, modify, and enhance the code for your specific use case.
